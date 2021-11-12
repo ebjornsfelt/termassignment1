@@ -106,7 +106,7 @@ a:active {
     float:right;
 } */
 
-.d-flex, button {
+.i-block, button {
     display: inline-block;
     margin-left: 252px;
     text-align: right;
@@ -114,4 +114,72 @@ a:active {
     border-radius: 3px;
     border-color: #9ccfd8;
     background-color:#9ccfd8 ;
+}
+
+.edit-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#edit-contact {
+    text-align: center;
+    /* text-align: center;
+    background-color: #9ccfd8; */
+    
+}
+
+.buttons-edit {
+    display: inline-block;
+}
+
+#edit {
+    background-color: #286983;
+    color: #faf4ed;
+    width: 100px;
+    border-color: #9ccfd8;
+}
+
+#close {
+    background-color: #312f44;
+    color: #faf4ed;
+    width: 100px;
+    border-color: #9ccfd8;
+}
+/* .buttons {
+    display: inline-block;
+}
+
+#button1 {
+    background-color: #31748f;
+    color: #faf4ed;
+    width: 100px;
+    border-color: #9ccfd8;
+}
+
+#button2 {
+    width: 55px;
+    background-color: #eb6f92;
+    color: #faf4ed;
+    border-color: #9ccfd8;
+} */
+
+/* .picture-edit {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+.picture-edit {
+    display: inline-block;
+    vertical-align: middle;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+h1 {
+    display: inline;
 }
