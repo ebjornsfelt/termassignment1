@@ -10,6 +10,8 @@
     background: #31748f
 }
 
+
+
 body {
     font-family: 'Open Sans Condensed', sans-serif;
     background: #9ccfd8;
@@ -21,6 +23,16 @@ body {
     justify-content: center;
     column-gap: 50px;
 }
+
+/* #contact-buttons{
+    text-align: right;
+    
+}
+
+.buttons-contact {
+    display: inline-block;
+} */
+
   
 .grid-item {
     background-color: #eee9e6;
