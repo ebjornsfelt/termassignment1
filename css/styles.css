@@ -96,13 +96,10 @@ a:active {
 
 .i-block {
     display: inline-block;
-    /* margin-left: 252px; */
     margin-left: 29%;
     text-align: right;
     border-width: 1px;
     border-radius: 0px;
-    /* border-width: 1%;
-    border-radius: 3%; */
     border-color: #9ccfd8;
     background-color:#9ccfd8;
     min-width: 26%;
