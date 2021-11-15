@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: stretch;
     justify-content: center;
-    column-gap: 50px;
+    column-gap: 5%;
 }
 
 
