@@ -10,8 +10,6 @@
     background: #31748f
 }
 
-
-
 body {
     font-family: 'Open Sans Condensed', sans-serif;
     background: #9ccfd8;
@@ -24,14 +22,6 @@ body {
     column-gap: 50px;
 }
 
-/* #contact-buttons{
-    text-align: right;
-    
-}
-
-.buttons-contact {
-    display: inline-block;
-} */
 
   
 .grid-item {
@@ -102,22 +92,7 @@ a:active {
     border-color: #9ccfd8;
     width: 100%;
 }
-/* .flex {
-    display: flex;
-    flex-direction: row;
-    width: 10px;
-    height: 10px;
-    flex-wrap: wrap-reverse;
-}
 
-#plusbutton {
-    display: inline-block;
-    width: 7px;
-    height: 7px; */
-/* } */
-/* div.flex {
-    float:right;
-} */
 
 .i-block, button {
     display: inline-block;
@@ -139,9 +114,6 @@ a:active {
 
 #edit-contact {
     text-align: center;
-    /* text-align: center;
-    background-color: #9ccfd8; */
-    
 }
 
 .buttons-edit {
@@ -161,28 +133,7 @@ a:active {
     width: 120%;
     border-color: #9ccfd8;
 }
-/* .buttons {
-    display: inline-block;
-}
 
-#button1 {
-    background-color: #31748f;
-    color: #faf4ed;
-    width: 100px;
-    border-color: #9ccfd8;
-}
-
-#button2 {
-    width: 55px;
-    background-color: #eb6f92;
-    color: #faf4ed;
-    border-color: #9ccfd8;
-} */
-
-/* .picture-edit {
-    display: flex;
-    flex-wrap: wrap;
-} */
 
 .picture-edit {
     display: inline-block;
